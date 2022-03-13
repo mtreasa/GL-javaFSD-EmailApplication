@@ -1,4 +1,4 @@
-package com.gl.emailGeneration.service;
+package com.gl.javafsd.emailGeneration.service;
 
 import java.util.Random;
 

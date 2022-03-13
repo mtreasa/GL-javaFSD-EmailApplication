@@ -1,4 +1,4 @@
-package com.gl.javafsd.ui;
+package com.gl.javafsd.emailGeneration.ui;
 
 import java.util.Scanner;
 

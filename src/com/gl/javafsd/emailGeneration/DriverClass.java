@@ -1,9 +1,8 @@
 package com.gl.javafsd.emailGeneration;
  
-import com.gl.emailGeneration.service.CredentialGenerator;
 import com.gl.javafsd.emailGeneration.Employee;
-import com.gl.javafsd.ui.EmailApplicationUi;
-//import java.util.Scanner;
+import com.gl.javafsd.emailGeneration.service.CredentialGenerator;
+import com.gl.javafsd.emailGeneration.ui.EmailApplicationUi;
 
 public class DriverClass {
 
